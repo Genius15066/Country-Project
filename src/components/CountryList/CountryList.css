@@ -1,0 +1,16 @@
+.card-style{
+    height:290px;
+    border:none;
+    box-shadow: 5px 5px 8px gray;
+    background-color:#f5f2ef;
+}
+.card-image{
+    height:120px;
+    width:50%;
+    border-radius: 50%;
+}
+.title{
+    font-size:18px;
+    font-weight:bold;
+    color:rgb(69, 85, 221);
+}

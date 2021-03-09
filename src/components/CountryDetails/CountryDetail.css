@@ -1,0 +1,20 @@
+.info{
+    box-shadow: 5px 5px 10px gray;
+    background-color:#f5f2ef;
+}
+.img-style{
+    border-radius: 50%;
+    height:160px;
+    width:160px;
+}
+h6{
+    line-height: 2;
+    border-bottom:1px solid lightgrey;
+    font-size:20px;
+    color:rgb(11, 172, 164);
+}
+.country-name{
+    color:darkslateblue;
+    font-size:25px;
+    font-weight:bold;
+}
